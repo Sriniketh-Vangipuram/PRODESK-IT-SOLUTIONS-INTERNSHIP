@@ -48,7 +48,7 @@ It was built as part of Week 1 internship mission, focusing on:
 ---
 
 ## 📂 Folder Structure
-Mission 1/
+PRODESK-IT-SOULTIONS-INTERNSHIP/
 │── index.html
 │── style.css
 │── script.js
