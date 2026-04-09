@@ -12,7 +12,7 @@ It was built as part of Week 1 internship mission, focusing on:
 ---
 
 ## 🌐 Live Demo
-🔗 https://your-username.github.io/repo-name/
+https://sriniketh-vangipuram.github.io/PRODESK-IT-SOLUTIONS-INTERNSHIP/
 
 ---
 
